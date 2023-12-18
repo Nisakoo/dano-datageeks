@@ -1,0 +1,101 @@
+,rating,name,price,has_sale,sale,original_price,is_new,delta,weeks_in_top
+0,1,Dota 2,0.0,0,0,0.0,0,1,602
+1,2,Rust,550.0,1,-50%,1100.0,0,2,522
+2,3,Counter-Strike 2,0.0,0,0,0.0,0,-2,592
+3,4,Lethal Company,385.0,0,0,385.0,0,-1,6
+4,5,Hunt: Showdown,472.15,1,-65%,1349.0,0,8,160
+5,6,Baldur's Gate 3,1999.0,0,0,1999.0,0,0,54
+6,7,Хаус Флиппер 2,1638.0,1,-10%,1820.0,1,0,1
+7,8,"Warhammer 40,000: Rogue Trader",1599.0,0,0,1599.0,1,0,1
+8,9,PUBG: BATTLEGROUNDS,0.0,0,0,0.0,0,-4,351
+9,10,THE FINALS,0.0,0,0,0.0,1,0,1
+10,11,Warspear Online,0.0,0,0,0.0,0,5,22
+11,12,Mount & Blade II: Bannerlord,1679.4,1,-40%,2799.0,0,38,3
+12,13,Ready or Not,1600.0,0,0,1600.0,0,29,104
+13,14,Path of Exile,0.0,0,0,0.0,0,31,2
+14,15,Team Fortress 2,0.0,0,0,0.0,0,14,54
+15,16,Barro 2020,21.0,1,-50%,42.0,1,0,1
+16,17,Valheim,261.0,1,-40%,435.0,0,2,149
+17,18,"Warhammer 40,000: Rogue Trader - Voidfarer Edition",3198.0,0,0,3198.0,1,0,1
+18,19,Wartales,974.0,1,-25%,1299.0,1,0,1
+19,20,Deep Rock Galactic,263.0,1,-67%,799.0,0,17,94
+20,21,Pathfinder: Wrath of the Righteous - Enhanced Edition,299.75,1,-75%,1199.0,1,0,1
+21,22,"Warhammer 40,000: Darktide",1786.85,1,-35%,2749.0,0,8,12
+22,23,"Wartales, Pirates of Belerion",666.0,1,-10%,740.0,1,0,1
+23,24,SCUM,1167.0,1,-50%,2335.0,1,0,1
+24,25,Phasmophobia,309.0,0,0,309.0,0,-11,167
+25,26,The Outlast Trials,825.0,1,-25%,1100.0,0,20,30
+26,27,No Man's Sky,950.0,1,-50%,1900.0,0,36,3
+27,28,DayZ,2204.3,1,-33%,3290.0,0,-3,266
+28,29,Rust + DLC Bundle,1035.0,1,-55%,2300.0,1,0,1
+29,30,Black Desert,35.0,1,-90%,350.0,0,-2,96
+30,31,Rust - Voice Props Pack,180.0,1,-50%,360.0,1,0,1
+31,32, Crysis Remastered Trilogy,456.09,1,-75%,1813.0,1,0,1
+32,33,Sons Of The Forest,1100.0,0,0,1100.0,0,-11,42
+33,34,BeamNG.drive,465.0,0,0,465.0,0,-14,83
+34,35,Wallpaper Engine,249.0,0,0,249.0,0,-9,102
+35,36,House Flipper Franchise Bundle,4082.4,1,-23%,5285.0,1,0,1
+36,37,Euro Truck Simulator 2,1249.0,0,0,1249.0,0,-30,475
+37,38,GTFO,1005.0,1,-40%,1675.0,1,0,1
+38,39,MudRunner,239.0,1,-80%,1199.0,1,0,1
+39,40,Medieval Dynasty,1462.4,1,-20%,1828.0,1,0,1
+40,41,Conan Exiles,840.0,1,-60%,2100.0,0,45,3
+41,42,Insurgency: Sandstorm,560.0,1,-67%,1699.0,1,0,1
+42,43,Squad,1099.0,0,0,1099.0,0,-19,94
+43,44,Hearts of Iron IV,1300.0,0,0,1300.0,0,-10,80
+44,45,Warhammer: Vermintide 2,299.8,1,-80%,1499.0,0,51,3
+45,46,Pathfinder: Wrath of the Righteous - Mythic Edition,644.49,1,-76%,2697.99,1,0,1
+46,47,The Long Dark,309.0,1,-50%,619.0,1,0,1
+47,48,Deadside,319.0,1,-55%,710.0,1,0,1
+48,49,Peeping Dorm Manager(скрыто на основе ваших предпочтений),378.0,1,-10%,420.0,1,0,1
+49,50,Rust - Sunburn Pack,140.0,1,-50%,280.0,1,0,1
+50,51,Escape the Backrooms,207.0,1,-20%,259.0,0,-7,47
+51,52,The Day After Survival Sale Bundle,2204.3,1,-33%,3290.0,1,0,1
+52,53,BattleBit Remastered,690.0,0,0,690.0,0,-42,26
+53,54,Granblue Fantasy Versus: Rising,3579.0,0,0,3579.0,1,0,1
+54,55,Raft,419.0,0,0,419.0,0,-38,103
+55,56,Garry's Mod,750.0,0,0,750.0,0,-24,82
+56,57,RimWorld,1099.0,0,0,1099.0,0,-24,6
+57,58,ASTRONEER,440.0,1,-60%,1100.0,1,0,1
+58,59,Ken Follett's The Pillars of the Earth,79.0,1,-90%,799.0,1,0,1
+59,60,Against the Storm,649.0,1,-35%,999.0,1,0,1
+60,61,Party Animals,866.6,1,-30%,1238.0,0,33,2
+61,62,Complete Flipping Experience,2392.1,1,-11%,2700.0,1,0,1
+62,63,Dungeons of Sundaria,291.0,1,-33%,435.0,1,0,1
+63,64,Expeditions: A MudRunner Game,2199.0,0,0,2199.0,1,0,1
+64,65,Darkest Dungeon® II,975.0,1,-25%,1300.0,1,0,1
+65,66,Ghostrunner,449.7,1,-70%,1499.0,1,0,1
+66,67,Call to Arms - Gates of Hell: Ostfront,649.0,0,0,649.0,0,-59,3
+67,68,ELDEN RING,3999.0,0,0,3999.0,0,-11,2
+68,69,Terraria,385.0,0,0,385.0,0,-34,86
+69,70,Lies of P,3999.0,0,0,3999.0,0,-15,15
+70,71,Barotrauma,550.0,1,-50%,1100.0,1,0,1
+71,72,Human Fall Flat,199.0,1,-70%,665.0,1,0,1
+72,73,Russian Fishing 4,0.0,0,0,0.0,0,-12,2
+73,74,Dorfromantik,185.0,1,-40%,309.0,1,0,1
+74,75,Mind Over Magic,404.0,1,-10%,449.0,1,0,1
+75,76,Five Nights at Freddy's: Help Wanted 2,1300.0,0,0,1300.0,1,0,1
+76,77,Medieval Dynasty - Digital Supporter Edition,1462.4,1,-20%,1828.0,1,0,1
+77,78,Lost Light,0.0,0,0,0.0,0,20,2
+78,79,TEKKEN 8,4199.0,0,0,4199.0,1,0,1
+79,80,Factorio,1200.0,0,0,1200.0,0,7,2
+80,81,ARK: Survival Ascended,3798.0,1,-10%,4220.0,1,0,1
+81,82,American Truck Simulator,1249.0,0,0,1249.0,0,-70,4
+82,83,Hunt: Showdown - Gold Edition,1092.98,1,-62%,2862.0,1,0,1
+83,84,The Binding of Isaac: Rebirth,449.0,0,0,449.0,0,-44,77
+84,85,Farlight 84,0.0,0,0,0.0,0,-38,2
+85,86,"Ranch Simulator - Build, Farm, Hunt",232.0,1,-50%,465.0,1,0,1
+86,87,ICARUS,900.0,0,0,900.0,0,-66,2
+87,88,Wartales: The Pirates Edition,1476.0,1,-28%,2039.0,1,0,1
+88,89,Crysis 3 Remastered,324.5,1,-50%,649.0,1,0,1
+89,90,"Warhammer 40,000: Rogue Trader - Deluxe Pack",450.0,0,0,450.0,1,0,1
+90,91,The Invincible,959.0,1,-20%,1199.0,1,0,1
+91,92,STALCRAFT,0.0,0,0,0.0,0,-43,2
+92,93,Rust - Instruments Pack,140.0,1,-50%,280.0,1,0,1
+93,94,My Summer Car,349.0,0,0,349.0,0,-28,2
+94,95,Don't Starve Together,349.0,0,0,349.0,0,-18,92
+95,96,ARK: Survival Evolved,550.0,0,0,550.0,1,0,1
+96,97,The Long Dark: Tales from the Far Territory,497.0,1,-30%,710.0,1,0,1
+97,98,Teardown,1399.0,0,0,1399.0,1,0,1
+98,99,Death Must Die,280.0,0,0,280.0,0,-29,2
+99,100,iRacing,450.0,0,0,450.0,1,0,1
